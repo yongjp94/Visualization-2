@@ -1,0 +1,3 @@
+$(function() {
+    $('#viz').text('hello');
+});
