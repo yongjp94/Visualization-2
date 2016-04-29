@@ -1,0 +1,385 @@
+date,genre,value
+2014-01-01,Pop / Rock,1
+2014-01-01,Tech House,10
+2014-01-01,Electronica,0
+2014-01-01,House,15
+2014-01-01,Breaks,0
+2014-01-01,DJ Tools,1
+2014-01-01,Hard Dance,0
+2014-01-01,Electro House,25
+2014-01-01,Chill Out,0
+2014-01-01,Techno,5
+2014-01-01,Deep House,19
+2014-01-01,Indie Dance / Nu Disco,8
+2014-01-01,Trance,0
+2014-01-01,Progressive House,21
+2014-01-01,Drum & Bass,0
+2014-01-01,Hip-Hop,0
+2014-02-01,Pop / Rock,0
+2014-02-01,Tech House,10
+2014-02-01,Electronica,0
+2014-02-01,House,14
+2014-02-01,Breaks,0
+2014-02-01,DJ Tools,0
+2014-02-01,Hard Dance,0
+2014-02-01,Electro House,26
+2014-02-01,Chill Out,0
+2014-02-01,Techno,5
+2014-02-01,Deep House,19
+2014-02-01,Indie Dance / Nu Disco,10
+2014-02-01,Trance,3
+2014-02-01,Progressive House,18
+2014-02-01,Drum & Bass,0
+2014-02-01,Hip-Hop,2
+2014-03-01,Pop / Rock,0
+2014-03-01,Indie Dance / Nu Disco,3
+2014-03-01,Electronica,0
+2014-03-01,Trance,3
+2014-03-01,Breaks,0
+2014-03-01,DJ Tools,0
+2014-03-01,Hard Dance,0
+2014-03-01,Electro House,26
+2014-03-01,Chill Out,0
+2014-03-01,Techno,6
+2014-03-01,Deep House,26
+2014-03-01,Tech House,9
+2014-03-01,House,11
+2014-03-01,Progressive House,25
+2014-03-01,Drum & Bass,0
+2014-03-01,Hip-Hop,0
+2014-04-01,Pop / Rock,0
+2014-04-01,Tech House,12
+2014-04-01,Electronica,0
+2014-04-01,House,15
+2014-04-01,Breaks,0
+2014-04-01,DJ Tools,0
+2014-04-01,Hard Dance,0
+2014-04-01,Electro House,30
+2014-04-01,Chill Out,0
+2014-04-01,Techno,3
+2014-04-01,Deep House,17
+2014-04-01,Indie Dance / Nu Disco,5
+2014-04-01,Trance,4
+2014-04-01,Progressive House,18
+2014-04-01,Drum & Bass,0
+2014-04-01,Hip-Hop,0
+2014-05-01,Pop / Rock,0
+2014-05-01,Tech House,18
+2014-05-01,Electronica,0
+2014-05-01,House,15
+2014-05-01,Breaks,0
+2014-05-01,DJ Tools,0
+2014-05-01,Hard Dance,0
+2014-05-01,Electro House,26
+2014-05-01,Chill Out,0
+2014-05-01,Techno,3
+2014-05-01,Deep House,16
+2014-05-01,Indie Dance / Nu Disco,3
+2014-05-01,Trance,1
+2014-05-01,Progressive House,22
+2014-05-01,Drum & Bass,0
+2014-05-01,Hip-Hop,0
+2014-06-01,Pop / Rock,0
+2014-06-01,Indie Dance / Nu Disco,8
+2014-06-01,Electronica,1
+2014-06-01,House,12
+2014-06-01,Breaks,0
+2014-06-01,DJ Tools,0
+2014-06-01,Hard Dance,0
+2014-06-01,Electro House,21
+2014-06-01,Chill Out,0
+2014-06-01,Techno,6
+2014-06-01,Deep House,17
+2014-06-01,Tech House,15
+2014-06-01,Trance,2
+2014-06-01,Progressive House,25
+2014-06-01,Drum & Bass,0
+2014-06-01,Hip-Hop,0
+2014-07-01,Pop / Rock,0
+2014-07-01,Tech House,19
+2014-07-01,Electronica,1
+2014-07-01,House,11
+2014-07-01,Breaks,0
+2014-07-01,DJ Tools,0
+2014-07-01,Hard Dance,0
+2014-07-01,Electro House,18
+2014-07-01,Chill Out,0
+2014-07-01,Techno,6
+2014-07-01,Deep House,21
+2014-07-01,Indie Dance / Nu Disco,5
+2014-07-01,Trance,1
+2014-07-01,Progressive House,22
+2014-07-01,Drum & Bass,0
+2014-07-01,Hip-Hop,1
+2014-08-01,Pop / Rock,0
+2014-08-01,Indie Dance / Nu Disco,4
+2014-08-01,Electronica,1
+2014-08-01,House,11
+2014-08-01,Breaks,0
+2014-08-01,DJ Tools,0
+2014-08-01,Hard Dance,0
+2014-08-01,Electro House,21
+2014-08-01,Chill Out,0
+2014-08-01,Techno,6
+2014-08-01,Deep House,22
+2014-08-01,Tech House,18
+2014-08-01,Trance,1
+2014-08-01,Progressive House,19
+2014-08-01,Drum & Bass,0
+2014-08-01,Hip-Hop,0
+2014-09-01,Pop / Rock,0
+2014-09-01,Indie Dance / Nu Disco,5
+2014-09-01,Electronica,2
+2014-09-01,House,20
+2014-09-01,Breaks,0
+2014-09-01,DJ Tools,0
+2014-09-01,Hard Dance,0
+2014-09-01,Electro House,19
+2014-09-01,Chill Out,0
+2014-09-01,Techno,10
+2014-09-01,Deep House,23
+2014-09-01,Tech House,13
+2014-09-01,Trance,3
+2014-09-01,Progressive House,8
+2014-09-01,Drum & Bass,1
+2014-09-01,Hip-Hop,0
+2014-10-01,Pop / Rock,0
+2014-10-01,Tech House,17
+2014-10-01,Electronica,2
+2014-10-01,House,12
+2014-10-01,Breaks,0
+2014-10-01,DJ Tools,0
+2014-10-01,Hard Dance,0
+2014-10-01,Electro House,18
+2014-10-01,Chill Out,0
+2014-10-01,Techno,10
+2014-10-01,Deep House,18
+2014-10-01,Indie Dance / Nu Disco,5
+2014-10-01,Trance,1
+2014-10-01,Progressive House,21
+2014-10-01,Drum & Bass,0
+2014-10-01,Hip-Hop,0
+2014-11-01,Pop / Rock,0
+2014-11-01,Tech House,12
+2014-11-01,Electronica,0
+2014-11-01,House,14
+2014-11-01,Breaks,1
+2014-11-01,DJ Tools,0
+2014-11-01,Hard Dance,0
+2014-11-01,Electro House,19
+2014-11-01,Chill Out,0
+2014-11-01,Techno,12
+2014-11-01,Deep House,22
+2014-11-01,Indie Dance / Nu Disco,7
+2014-11-01,Trance,1
+2014-11-01,Progressive House,11
+2014-11-01,Drum & Bass,0
+2014-11-01,Hip-Hop,1
+2014-12-01,Pop / Rock,0
+2014-12-01,Tech House,18
+2014-12-01,Electronica,0
+2014-12-01,House,16
+2014-12-01,Breaks,0
+2014-12-01,DJ Tools,0
+2014-12-01,Hard Dance,0
+2014-12-01,Electro House,18
+2014-12-01,Chill Out,0
+2014-12-01,Techno,8
+2014-12-01,Deep House,22
+2014-12-01,Indie Dance / Nu Disco,8
+2014-12-01,Trance,1
+2014-12-01,Progressive House,12
+2014-12-01,Drum & Bass,2
+2014-12-01,Hip-Hop,0
+2015-01-01,Pop / Rock,0
+2015-01-01,Indie Dance / Nu Disco,8
+2015-01-01,Electronica,1
+2015-01-01,House,14
+2015-01-01,Breaks,0
+2015-01-01,DJ Tools,0
+2015-01-01,Hard Dance,0
+2015-01-01,Electro House,19
+2015-01-01,Chill Out,0
+2015-01-01,Techno,11
+2015-01-01,Deep House,21
+2015-01-01,Tech House,22
+2015-01-01,Trance,0
+2015-01-01,Progressive House,7
+2015-01-01,Drum & Bass,0
+2015-01-01,Hip-Hop,0
+2015-02-01,Pop / Rock,0
+2015-02-01,Indie Dance / Nu Disco,5
+2015-02-01,Electronica,1
+2015-02-01,House,14
+2015-02-01,Breaks,0
+2015-02-01,DJ Tools,0
+2015-02-01,Hard Dance,0
+2015-02-01,Electro House,25
+2015-02-01,Chill Out,0
+2015-02-01,Techno,11
+2015-02-01,Deep House,17
+2015-02-01,Tech House,20
+2015-02-01,Trance,1
+2015-02-01,Progressive House,13
+2015-02-01,Drum & Bass,0
+2015-02-01,Hip-Hop,0
+2015-03-01,Pop / Rock,0
+2015-03-01,Tech House,18
+2015-03-01,Electronica,1
+2015-03-01,House,16
+2015-03-01,Breaks,0
+2015-03-01,DJ Tools,0
+2015-03-01,Hard Dance,0
+2015-03-01,Electro House,21
+2015-03-01,Chill Out,1
+2015-03-01,Techno,9
+2015-03-01,Deep House,17
+2015-03-01,Indie Dance / Nu Disco,5
+2015-03-01,Trance,4
+2015-03-01,Progressive House,12
+2015-03-01,Drum & Bass,1
+2015-03-01,Hip-Hop,0
+2015-04-01,Pop / Rock,0
+2015-04-01,Indie Dance / Nu Disco,2
+2015-04-01,Electronica,1
+2015-04-01,House,20
+2015-04-01,Breaks,0
+2015-04-01,DJ Tools,0
+2015-04-01,Hard Dance,0
+2015-04-01,Electro House,15
+2015-04-01,Chill Out,0
+2015-04-01,Techno,12
+2015-04-01,Deep House,19
+2015-04-01,Tech House,16
+2015-04-01,Trance,3
+2015-04-01,Progressive House,18
+2015-04-01,Drum & Bass,0
+2015-04-01,Hip-Hop,0
+2015-05-01,Pop / Rock,0
+2015-05-01,Indie Dance / Nu Disco,5
+2015-05-01,Electronica,0
+2015-05-01,House,22
+2015-05-01,Breaks,0
+2015-05-01,DJ Tools,0
+2015-05-01,Hard Dance,2
+2015-05-01,Electro House,14
+2015-05-01,Chill Out,0
+2015-05-01,Techno,12
+2015-05-01,Deep House,20
+2015-05-01,Tech House,19
+2015-05-01,Trance,0
+2015-05-01,Progressive House,10
+2015-05-01,Drum & Bass,1
+2015-05-01,Hip-Hop,0
+2015-06-01,Pop / Rock,0
+2015-06-01,Indie Dance / Nu Disco,6
+2015-06-01,Electronica,0
+2015-06-01,House,20
+2015-06-01,Breaks,0
+2015-06-01,DJ Tools,0
+2015-06-01,Hard Dance,0
+2015-06-01,Electro House,14
+2015-06-01,Chill Out,0
+2015-06-01,Techno,11
+2015-06-01,Deep House,21
+2015-06-01,Tech House,18
+2015-06-01,Trance,0
+2015-06-01,Progressive House,14
+2015-06-01,Drum & Bass,0
+2015-06-01,Hip-Hop,0
+2015-07-01,Pop / Rock,0
+2015-07-01,Indie Dance / Nu Disco,4
+2015-07-01,Electronica,0
+2015-07-01,House,30
+2015-07-01,Breaks,0
+2015-07-01,DJ Tools,0
+2015-07-01,Hard Dance,0
+2015-07-01,Electro House,12
+2015-07-01,Chill Out,0
+2015-07-01,Techno,9
+2015-07-01,Deep House,17
+2015-07-01,Tech House,16
+2015-07-01,Trance,1
+2015-07-01,Progressive House,16
+2015-07-01,Drum & Bass,0
+2015-07-01,Hip-Hop,0
+2015-08-01,Pop / Rock,0
+2015-08-01,Indie Dance / Nu Disco,5
+2015-08-01,Electronica,1
+2015-08-01,House,22
+2015-08-01,Breaks,0
+2015-08-01,DJ Tools,0
+2015-08-01,Hard Dance,0
+2015-08-01,Electro House,9
+2015-08-01,Chill Out,0
+2015-08-01,Techno,14
+2015-08-01,Deep House,14
+2015-08-01,Tech House,25
+2015-08-01,Trance,2
+2015-08-01,Progressive House,12
+2015-08-01,Drum & Bass,0
+2015-08-01,Hip-Hop,0
+2015-09-01,Pop / Rock,0
+2015-09-01,Indie Dance / Nu Disco,6
+2015-09-01,Electronica,1
+2015-09-01,House,20
+2015-09-01,Breaks,0
+2015-09-01,DJ Tools,0
+2015-09-01,Hard Dance,0
+2015-09-01,Electro House,14
+2015-09-01,Chill Out,0
+2015-09-01,Techno,10
+2015-09-01,Deep House,18
+2015-09-01,Tech House,26
+2015-09-01,Trance,1
+2015-09-01,Progressive House,10
+2015-09-01,Drum & Bass,1
+2015-09-01,Hip-Hop,0
+2015-10-01,Pop / Rock,0
+2015-10-01,Tech House,21
+2015-10-01,Electronica,0
+2015-10-01,House,20
+2015-10-01,Breaks,0
+2015-10-01,DJ Tools,0
+2015-10-01,Hard Dance,0
+2015-10-01,Electro House,14
+2015-10-01,Chill Out,0
+2015-10-01,Techno,13
+2015-10-01,Deep House,14
+2015-10-01,Indie Dance / Nu Disco,9
+2015-10-01,Trance,0
+2015-10-01,Progressive House,13
+2015-10-01,Drum & Bass,0
+2015-10-01,Hip-Hop,0
+2015-11-01,Pop / Rock,0
+2015-11-01,Tech House,22
+2015-11-01,Electronica,0
+2015-11-01,House,20
+2015-11-01,Breaks,0
+2015-11-01,DJ Tools,0
+2015-11-01,Hard Dance,0
+2015-11-01,Electro House,14
+2015-11-01,Chill Out,0
+2015-11-01,Techno,16
+2015-11-01,Deep House,16
+2015-11-01,Indie Dance / Nu Disco,6
+2015-11-01,Trance,2
+2015-11-01,Progressive House,10
+2015-11-01,Drum & Bass,0
+2015-11-01,Hip-Hop,0
+2015-12-01,Pop / Rock,0
+2015-12-01,Indie Dance / Nu Disco,7
+2015-12-01,Electronica,2
+2015-12-01,House,18
+2015-12-01,Breaks,0
+2015-12-01,DJ Tools,0
+2015-12-01,Hard Dance,0
+2015-12-01,Electro House,12
+2015-12-01,Chill Out,0
+2015-12-01,Techno,19
+2015-12-01,Deep House,14
+2015-12-01,Tech House,22
+2015-12-01,Trance,2
+2015-12-01,Progressive House,8
+2015-12-01,Drum & Bass,1
+2015-12-01,Hip-Hop,0
