@@ -12,10 +12,18 @@
     <script src="http://d3js.org/d3.v3.js"></script>
     
     <script src="/bower_components/papaparse/papaparse.min.js"></script>
+    <script src="/js/StackedGraph.js"></script>
     <script src="/js/main.js"></script>
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
+    <div class='jumbotron'>
+        <h1>EDM Genre Trends Over Time</h1>
+        <p id="genre">This is: </p>
+    </div>
+    <div class='genres control'>
+        <ul id='genres' class='breadcrumb'></ul>
+    </div>
     <div id="viz"></div>
 </body>
 </html>
